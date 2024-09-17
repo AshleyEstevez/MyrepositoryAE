@@ -1,1 +1,4 @@
 Este es un archivo en la rama de desarrollo.
+
+>Objetivo
+El objetivo de este repositorio es practicar el uso de ramas en GitHub, incluyendo la rama principal (`main`) y una rama de desarrollo (`dev`).
